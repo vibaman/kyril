@@ -1,0 +1,121 @@
+[{
+	cyr: 'А',
+	lat: 'A'
+},
+{
+	cyr: 'Б',
+	lat: 'B'
+},
+{
+	cyr: 'В',
+	lat: 'V'
+},
+{
+	cyr: 'Г',
+	lat: 'G'
+},
+{
+	cyr: 'Д',
+	lat: 'D'
+},
+{
+	cyr: 'Ђ',
+	lat: 'DJ'
+},
+{
+	cyr: 'Е',
+	lat: 'E'
+},
+{
+	cyr: 'Ж',
+	lat: 'Ž'
+},
+{
+	cyr: 'З',
+	lat: 'Z'
+},
+{
+	cyr: 'И',
+	lat: 'I'
+},
+{
+	cyr: 'Ј',
+	lat: 'J'
+},
+{
+	cyr: 'К',
+	lat: 'K'
+},
+{
+	cyr: 'Л',
+	lat: 'L'
+},
+{
+	cyr: 'Љ',
+	lat: 'LJ'
+},
+{
+	cyr: 'М',
+	lat: 'M'
+},
+{
+	cyr: 'Н',
+	lat: 'N'
+},
+{
+	cyr: 'Њ',
+	lat: 'NJ'
+},
+{
+	cyr: 'О',
+	lat: 'O'
+},
+{
+	cyr: 'П',
+	lat: 'P'
+},
+{
+	cyr: 'Р',
+	lat: 'R'
+},
+{
+	cyr: 'C',
+	lat: 'S'
+},
+{
+	cyr: 'Т',
+	lat: 'T'
+},
+{
+	cyr: 'Ћ',
+	lat: 'Ć'
+},
+{
+	cyr: 'У',
+	lat: 'U'
+},
+{
+	cyr: 'Ф',
+	lat: 'F'
+},
+{
+	cyr: 'Х',
+	lat: 'H'
+},
+{
+	cyr: 'Ц',
+	lat: 'C'
+},
+{
+	cyr: 'Ч',
+	lat: 'Č'
+},
+{
+	cyr: 'Џ',
+	lat: 'DŽ'
+},
+{
+	cyr: 'Ш',
+	lat: 'Š'
+},
+]
